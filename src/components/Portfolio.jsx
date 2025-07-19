@@ -11,30 +11,30 @@ const Portfolio = () => {
 
   const projects = [
     {
-      title: "E-Learning Website",
-      description: "A comprehensive online learning platform with course management, video streaming, and progress tracking",
-      tech: ["HTML", "CSS" ,"Node.js", "MongoDB"],
-      image: "https://chpqznnwxaewksfxfqmk.supabase.co/storage/v1/object/public/resumes//Screenshot%202025-03-21%20003001.png",
-      github: "#",
-      demo: "#"
+      title: "Portfolio Website",
+      description: "Portfolio Website",
+      tech: ["React.js", "Tailwind CSS"],
+      image: "/portfolio.png",
+      github: "https://github.com/jaykumar108/Portfolio-React",
+      demo: "https://portfoliojaysharma.netlify.app/"
     },
+    
     {
       title: "Career Portal Project",
       description: "A job portal connecting employers and job seekers with advanced filtering and matching algorithms",
       tech: ["React.js", "Tailwind CSS", "Node.js", "MongoDB","Express.js"],
       image: "https://chpqznnwxaewksfxfqmk.supabase.co/storage/v1/object/public/resumes//carrer.png",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/jaykumar108/Career_Portal_Project",
+      demo: "https://career-portal-project.vercel.app/"
     },
-    ,
     {
-      title: "Portfolio Website",
-      description: "Portfolio Website",
-      tech: ["React.js", "Tailwind CSS"],
-      image: "/portfolio.png",
-      github: "#",
-      demo: "#"
-    },
+      title: "E-Learning Website",
+      description: "A comprehensive online learning platform with course management, video streaming, and progress tracking",
+      tech: ["HTML", "CSS" ,"Node.js", "MongoDB"],
+      image: "https://chpqznnwxaewksfxfqmk.supabase.co/storage/v1/object/public/resumes//Screenshot%202025-03-21%20003001.png",
+      github: "https://github.com/jaykumar108/Elearning",
+      demo: "https://elearning-web-com.onrender.com/home"
+    }
    
    
   ];
